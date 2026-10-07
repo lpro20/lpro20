@@ -5,7 +5,7 @@
 ## 🧰 Technologies Utilisées
 
 * **Backend :** PHP 8.2+ & **Laravel 12**
-* **Interface Admin / Dashboard :** **Filament v3** (TALL Stack : Tailwind CSS, Alpine.js, Laravel Livewire)
+* **Interface Admin / Dashboard :** **Filament v5** (TALL Stack : Tailwind CSS, Alpine.js, Laravel Livewire)
 * **Base de données :** MySQL / PostgreSQL
 * **Rapports & Exports :** Maatwebsite Excel & Laravel PDF
 
